@@ -1,0 +1,4 @@
+usar es simple, dale click en los botones que dice los poligonos y te lo dibuja, dale en guardar
+y te lo guarda y cargar te carga todas las figuras guardadas
+instalacion:
+tener todos los archivos en una sola carpeta y ejecuar tp3.py
